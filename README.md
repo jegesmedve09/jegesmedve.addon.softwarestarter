@@ -29,36 +29,4 @@ After selecting the ZIP file, Kodi will install the addon. You may see a notific
 8. Access the Add-on
 Once installed, you can access the new addon from the Add-ons section in Kodi.
 
-<h2>If you like the addon, consider donating:</h2>
 
-BITCOIN WALLETS:
-<br><br>
-DEFAULT:	bc1qdaqqje7c3qks9lm2rmnu96j9y5lnvmfj5fj2a3
-<br>
-COMPATIBILITY:	3J6yUwXRZ8L472zmzrsvBPefQsXsT5zdgv
-<br>
-LEGACY:		19XZCYcQdQTa6tMW2NYoFg2CgbypEKC71B
-<br>
-<br>
-<br>
-ETHEREUM WALLET:
-<br><br>
-Please only send funds using ETH or ERC20 networks to this wallet. BSC is not yet supported.
-<br>
-DEFAULT:	0xF6579525f4E13efECAa35E5D4e339021BA8F7b24
-<br>
-<br>
-<br>
-DOGECOIN WALLET:
-<br><br>
-DEFAULT:	DKQudg92uMgYx6LGtf2DUAu6M6XFmPHp5t
-<br>
-<br>
-<br>
-LITECOIN WALLET:
-<br><br>
-DEFAULT:	ltc1qggqmwf9tm5zdy54xl2xrjwz3wa64yl7cqfdggl
-<br>
-COMPATIBLITY:	MEhxP1Q7dXGYmuV5PqZsY4QXBZMLfTDke9
-<br>
-LEGACY:		LQxpits721K3Jf5w7JDLZeR9BzsTtZWK9i
